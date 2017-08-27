@@ -1,0 +1,15 @@
+..\..\output\fsmc.o: ..\..\User\FSMC\FSMC.c
+..\..\output\fsmc.o: ..\..\User\FSMC\FSMC.h
+..\..\output\fsmc.o: ..\..\User\includes.h
+..\..\output\fsmc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\fsmc.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\fsmc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\fsmc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\fsmc.o: ..\..\User\stm32f10x_conf.h
+..\..\output\fsmc.o: ..\..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+..\..\output\fsmc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\fsmc.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\fsmc.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\fsmc.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\fsmc.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\fsmc.o: ..\..\User\FSMC\FSMC.h
